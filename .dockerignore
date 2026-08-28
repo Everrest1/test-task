@@ -1,0 +1,15 @@
+node_modules
+.nuxt
+.output
+dist
+coverage
+.data
+.git
+.gitignore
+.env
+.env.local
+*.log
+README.md
+Dockerfile
+docker-compose.yaml
+.dockerignore
